@@ -1,4 +1,4 @@
-# Python-Download-Sorter
+# Python-Download-Organizer
 
 * Creates a folder on the desktop called "Sorted-Downloads", or uses the folder if it already exists
 * Sorts all files downloaded into that folder by extension
